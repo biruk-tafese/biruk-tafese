@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋 Welcome!!!<br>I am Biruk working on ML |  MERN-STACK | Django | asp.net | UX/UI
+Hey there 👋 Welcome!!!<br>I am Biruk working on Flutter | Android Studio |   Django | FastAPI | React
 
 
 ## 🌐 Socials:
