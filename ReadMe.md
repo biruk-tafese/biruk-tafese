@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hey there 👋 Welcome!!!<br>I am Biruk working on Flutter | Android Studio |   Django | FastAPI | React
+Hey there 👋 Welcome!!!<br>Mobile app Development(Dart) | Fullstack Web Development(React,Django,FastAPI, Nodejs,mongodb).
 
+# contact 
+  +251964377216   |  cstafesebiruk23@gmail.com
+  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/biruk_tafese) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biruk-tafese-80697a262/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cstafesebiruk23) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/biruktafese/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](www.quora.com/profile/Biruk-Tafese-1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21782911/biruk-tafese)
