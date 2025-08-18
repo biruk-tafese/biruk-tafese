@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hey there 👋 Welcome!!!<br>Software Engineer.
+👋 Hi, I'm Biruk Tafese  
+💻 Software Engineer | Full-Stack Developer  
+🚀 Passionate about building web & mobile applications  
+🌱 Always learning & exploring new technologies  
+🤝 Open to collaboration on exciting projects
 
 # contact 
   +251964377216   |  cstafesebiruk23@gmail.com
