@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋 Welcome!!!<br>Mobile app Development(Dart) | Fullstack Web Development.
+Hey there 👋 Welcome!!!<br>Software Engineer.
 
 # contact 
   +251964377216   |  cstafesebiruk23@gmail.com
