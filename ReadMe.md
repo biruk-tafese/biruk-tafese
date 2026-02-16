@@ -6,7 +6,7 @@
 🤝 Open to collaboration on exciting projects
 
 # contact 
-  +251964377216   |  cstafesebiruk23@gmail.com  |  nidoole.com
+  +251964377216   |  cstafesebiruk23@gmail.com  |  Nidoole.com
   
 
 ## 🌐 Socials:
