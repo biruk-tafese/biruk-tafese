@@ -1,22 +1,21 @@
 ## About Me
 
-Hi, I am **Biruk Tafese**
+**Biruk Tafese**
 
 **Full-Stack Engineer** | 2+ Years of Professional Experience
 
-Passionate about building modern web applications, AI automation, and scalable systems
-
-Currently exploring **Agentic AI, FastAPI Cloud, and Advanced Full-Stack Architecture**
-
-Open to technical collaboration, AI-driven projects, and impactful full-stack development
+Passionate about building modern web applications, AI automation, and scalable systems. Currently exploring Agentic AI, FastAPI Cloud, and Advanced Full-Stack Architecture. Open to technical collaboration, AI-driven projects, and impactful full-stack development.
 
 ---
 
 ## Contact & Connect
 
-**+251 964 377 216** | **cstafesebiruk23@gmail.com** | **[biruktafese.dev](https://www.google.com/search?q=https://biruktafese.dev)**
+* **Phone:** +251 964 377 216
+* **Email:** cstafesebiruk23@gmail.com
+* **Portfolio:** [biruktafese-dev.vercel.app](https://biruktafese-dev.vercel.app/)
+* **CV:** [Download Curriculum Vitae](https://drive.google.com/file/d/1K_pB7BKNNZGiM2z1ijdRoXDrVDztDTn7/view?usp=sharing)
 
-### Socials
+### Social Links
 
 * [LinkedIn](https://www.linkedin.com/in/biruk-tafese-80697a262/)
 * [Medium](https://medium.com/@cstafesebiruk23)
@@ -31,49 +30,26 @@ Open to technical collaboration, AI-driven projects, and impactful full-stack de
 
 ### Frontend & Frameworks
 
-* Next.js
-* React
-* Tailwind CSS
-* JavaScript
-* Vite
-* Vue.js
+* Next.js, React, Tailwind CSS, JavaScript, Vite, Vue.js
 
 ### Backend & APIs
 
-* Python
-* FastAPI
-* Django
-* Express.js
-* Flask
+* Python, FastAPI, Django, Express.js, Flask
 
 ### Databases, Cloud & Tools
 
-* PostgreSQL
-* Firebase
-* Google Cloud
-* NPM
-* Yarn
+* PostgreSQL, Firebase, Google Cloud, NPM, Yarn
 
 ---
 
 ## Featured Projects
 
 * **[SeeTruth](https://www.google.com/search?q=https://seetruth.vercel.app/)**: An open-source web application built with Next.js and Supabase for anonymous workplace feedback and transparent business ratings.
-* **[DefeatFear](https://www.google.com/search?q=https://biruktafese.dev)**: A mobile-first 3D browser game built using Next.js and Three.js, featuring interactive 3D scene controls, vehicle selection, and custom audio synthesis mechanics.
+* **[DefeatFear](https://biruktafese-dev.vercel.app/)**: A mobile-first 3D browser game built using Next.js and Three.js, featuring interactive 3D scene controls, vehicle selection, and custom audio synthesis mechanics.
 * **[NiDoole Technology Platform](https://nidoole.com)**: A comprehensive technology solutions platform featuring a modern Next.js interface, dynamic theme toggles, and scalable administrative dashboards.
-
----
-
-## GitHub Stats & Trophies
-
-```text
-📊 GitHub Overview: Active contributions, consistent streaks, and robust repository metrics across private and public codebases.
-🏆 Top Languages: TypeScript, JavaScript, Python, HTML/CSS, and SQL.
-
-```
 
 ---
 
 ## Support My Work
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/biruktafese)
+* [Buy Me a Coffee](https://www.buymeacoffee.com/biruktafese)
